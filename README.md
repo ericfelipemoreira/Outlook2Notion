@@ -8,3 +8,6 @@ An important email arrives with a confidential attachment.
 - The attachement is saved in a dedicated instituional OneDrive project folder in compliance with instituional cybersecurity rules 
 - A private Notion database is updated with minimal information about the document (name, date, project name) and a link to the actual saved document.
 
+python -m venv .venv
+./.venv/Scripts/activate
+pip install -r requirements.txt
